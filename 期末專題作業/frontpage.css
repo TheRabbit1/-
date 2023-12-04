@@ -1,0 +1,15 @@
+
+  .Header ul{
+    float:right;
+    margin-top:55px;
+    margin-right:20px;
+ }
+ .Header ul li{
+    float:left;
+    margin-right:25px;
+    font-size:18px;
+ }
+ .Header ul li a{
+    text-decoration: none;
+    color:#000000;
+ }
